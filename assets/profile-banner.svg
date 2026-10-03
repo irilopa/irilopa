@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+  <title id="title">Iván López Rilopa — Backend y Android</title>
+  <desc id="desc">Cabecera de marca personal en azul petróleo, blanco y gris, con el monograma ILR.</desc>
+  <rect width="1280" height="300" rx="18" fill="#F3F6F7"/>
+  <rect x="0" y="0" width="12" height="300" fill="#155E75"/>
+  <path d="M920 0H1262Q1280 0 1280 18V282Q1280 300 1262 300H1020Z" fill="#155E75"/>
+  <path d="M966 0L1066 300" stroke="#FFFFFF" stroke-opacity=".15" stroke-width="1"/>
+  <text x="56" y="69" fill="#155E75" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="3">DESARROLLO JUNIOR</text>
+  <text x="52" y="147" fill="#17252B" font-family="DejaVu Sans,Arial,sans-serif" font-size="62" font-weight="700">Iván López Rilopa</text>
+  <text x="56" y="201" fill="#4B5D66" font-family="DejaVu Sans,Arial,sans-serif" font-size="29">Java / Spring Boot · Android / Kotlin</text>
+  <rect x="56" y="237" width="58" height="4" rx="2" fill="#155E75"/>
+  <text x="132" y="247" fill="#4B5D66" font-family="DejaVu Sans,Arial,sans-serif" font-size="20">APIs REST · Jetpack Compose · Madrid</text>
+  <text x="1124" y="174" text-anchor="middle" fill="#FFFFFF" font-family="DejaVu Sans,Arial,sans-serif" font-size="83" font-weight="700" letter-spacing="-5">ILR</text>
+  <text x="1127" y="207" text-anchor="middle" fill="#FFFFFF" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" letter-spacing="2">BACKEND + ANDROID</text>
+</svg>

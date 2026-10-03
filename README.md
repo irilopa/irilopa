@@ -1,77 +1,68 @@
-# 👋 ¡Hola! Soy Ivan Lopez Rilopa
+<p align="center">
+  <img src="https://raw.githubusercontent.com/irilopa/irilopa/main/assets/profile-banner.svg" alt="Iván López Rilopa · Backend y Android · Desarrollo junior" width="100%">
+</p>
 
-## 💻 Desarrollador Full-Stack | ☁️ Cloud Enthusiast | 🚀 Apasionado por la tecnología
+# Iván López Rilopa
 
-Desarrollador en formación especializado en desarrollo web y gestión de bases de datos. Actualmente cursando **Grado Superior en Desarrollo de Aplicaciones Multiplataforma** y preparando la certificación **AWS Certified Solutions Architect - Associate**.
+**Desarrollador Junior · Java/Spring Boot y Android/Kotlin**  
+Madrid · Aplicaciones Android, APIs REST y bases de datos
 
-Me apasiona crear soluciones tecnológicas escalables y eficientes, combinando desarrollo frontend y backend con las mejores prácticas de cloud computing.
-
----
-
-## 🛠️ Stack Tecnológico
-
-### Backend
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-%236C8D30.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Herramientas de Desarrollo
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+[Portfolio](https://ivanrilopa.com) · [LinkedIn](https://www.linkedin.com/in/ivan-lopez-rilopa) · [Correo](mailto:Ivanrilopa22@proton.me)
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Sobre mí
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=irilopa&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
+Desarrollo aplicaciones Android con **Kotlin y Jetpack Compose** y servicios backend con **Java, Spring Boot y PostgreSQL**. Mi formación en Desarrollo de Aplicaciones Multiplataforma y en Sistemas Microinformáticos y Redes me ayuda a conectar el desarrollo con la configuración de sus entornos.
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=irilopa&layout=compact&theme=tokyonight&hide_border=true&locale=es)
+Durante mis prácticas curriculares participé en **Amani**, un proyecto de equipo para conectar pacientes y psicólogos, trabajando en su backend y su aplicación Android.
+
+**Busco una oportunidad junior en backend Java o desarrollo Android**, donde seguir aprendiendo sobre arquitectura, testing y desarrollo de producto.
+
+## Proyectos seleccionados
+
+### 01 · Amani — Backend
+**Proyecto de equipo · Java / Spring Boot / PostgreSQL**
+
+API REST de una plataforma de gestión de consultas psicológicas, con usuarios, citas e historial clínico. El repositorio documenta su arquitectura, persistencia con JPA/Hibernate y seguridad con Spring Security y JWT.
+
+[Explorar backend](https://github.com/AmaniGrupo1/amani-apirest) · [Documentación](https://github.com/AmaniGrupo1/amani-apirest/blob/main/README.md)
+
+### 02 · Amani — Android
+**Proyecto de equipo · Kotlin / Jetpack Compose / Koin**
+
+Aplicación Android de la misma plataforma, con interfaces para pacientes, psicólogos y administración. Organizada con MVVM y capas de presentación, dominio y datos; utiliza Retrofit para comunicarse con el backend.
+
+[Explorar aplicación](https://github.com/AmaniGrupo1/AmaniAndroid) · [Arquitectura y puesta en marcha](https://github.com/AmaniGrupo1/AmaniAndroid/blob/master/Readme.md)
+
+> Amani es un trabajo compartido: estos enlaces muestran el producto del equipo y no atribuyen todas sus funcionalidades a una sola persona.
+
+### 03 · PokéManager
+**Proyecto personal de aprendizaje · Kotlin / Jetpack Compose / Firebase**
+
+Aplicación Android para gestionar un equipo Pokémon, con autenticación, persistencia por usuario y consulta de datos de PokéAPI. Integra Firebase Auth, Firestore, Retrofit y Koin con una organización MVVM.
+
+[Explorar proyecto](https://github.com/irilopa/PokeManager) · [Descripción y configuración](https://github.com/irilopa/PokeManager/blob/master/README.md)
 
 ---
 
-## 🎯 Objetivos Actuales
+## Tecnologías con las que trabajo
 
-- 🎓 Finalizar el Grado Superior en Desarrollo de Aplicaciones Multiplataforma
-- ☁️ Obtener la certificación AWS Solutions Architect Associate
-- 🚀 Contribuir a proyectos open source
-- 📚 Profundizar en microservicios y arquitecturas cloud-native
+| Área | Tecnologías |
+| :--- | :--- |
+| **Backend** | Java · Spring Boot · APIs REST · JPA/Hibernate |
+| **Android** | Kotlin · Jetpack Compose · MVVM · Koin · Retrofit |
+| **Datos y servicios** | SQL · PostgreSQL · Firebase |
+| **Entornos y entrega** | Git · Docker · GCP · GitHub Actions |
 
----
+## Aprendizaje y próximos pasos
 
-## 📫 Contacto
+- Profundizar en arquitectura, pruebas y documentación de aplicaciones.
+- Seguir aprendiendo sobre Docker, microservicios y despliegue.
+- Preparación para **AWS Solutions Architect – Associate**; certificación pendiente.
 
-¿Tienes un proyecto interesante o quieres colaborar? ¡Hablemos!
+## Hablemos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivan-lopez-rilopa)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ivanrilopa22@proton.me)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irilopa)
+Si buscas un perfil junior de **Java/Spring Boot** o **Android/Kotlin**, puedes conocer mis proyectos y contactar conmigo:
 
----
-
-<div align="center">
-  
-### ⭐ Si te gusta mi trabajo, no dudes en seguirme o dar estrella a mis repositorios
-
-**¡Gracias por visitar mi perfil!** 😊
-
-</div>
+**[Portfolio](https://ivanrilopa.com)** · **[LinkedIn](https://www.linkedin.com/in/ivan-lopez-rilopa)** · **[Correo electrónico](mailto:Ivanrilopa22@proton.me)**
